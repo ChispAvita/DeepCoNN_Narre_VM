@@ -46,6 +46,10 @@ Author: Chong Chen (cstchenc@163.com)
 
 In our experiments, we use the datasets from  Amazon 5-core(http://jmcauley.ucsd.edu/data/amazon) and Yelp Challenge 2017(https://www.yelp.com/dataset_challenge).
 
+## Word Embedding
+He usado el pre-entrenado pre-entrenado. Trás descargarlo, descomprimirlo y cambiar el nombre a google.bin y copiarlo en \data
+https://github.com/mmihaltz/word2vec-GoogleNews-vectors
+
 ## Example to run the codes		
 
 Data preprocessing:
